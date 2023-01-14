@@ -15,6 +15,9 @@ Then you will see a screen like this:
 <img width="1229" alt="Screenshot 2023-01-13 at 7 21 09 PM" src="https://user-images.githubusercontent.com/122418243/212448521-59b682d3-749a-4737-b441-e732d367eb68.png">
 Your current password should be the one you use to log into your TritonLink.
 Then change your password!(Make sure your password contains uppercase and lowercase letters, numbers, and special characters.
+
 # Part 2: Downolad VScode.
 To download VScode go to their [website](https://code.visualstudio.com/)
 You should see a page like this:
+<img width="1470" alt="Screenshot 2023-01-12 at 11 04 27 PM" src="https://user-images.githubusercontent.com/122418243/212448850-473b9cee-b85b-4919-82f2-22062c577a59.png">
+Click on the big blue button that says "Dowload". If you have Windows dwonload the windows version, if you have mac download the mac version.
