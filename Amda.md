@@ -2,7 +2,7 @@
 
 # Part 1: Change your password for your course-specific account.
 Go on the [Educational Technolgy Services](https://sdacs.ucsd.edu/~icc/index.php)
-wbsite. After you go to the website,
+website. After you go to the website,
 Under username put the username that you use to log into your tritonlink and your UCSD PID number.
 Then click on "Submit".
 After you get to the other page, you should see a screen like this
