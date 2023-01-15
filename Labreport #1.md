@@ -2,10 +2,10 @@
 
 # Part 1: Change your password for your course-specific account.
 Go on the [Educational Technolgy Services](https://sdacs.ucsd.edu/~icc/index.php)
-After you go to the website,
+ website. After you go to the website,
 Under username put the username that you use to log into your tritonlink and your UCSD PID number.
 Then click on "Submit".
-After you get to the other page, you should see a screen like this
+After you get to the other page, you should see a screen like this:
 <img width="886" alt="Screenshot 2023-01-13 at 7 04 18 PM" src="https://user-images.githubusercontent.com/122418243/212448091-5b06bd2c-381a-483a-9745-ae0fb4ff841d.png">
 Click on your specific user name which is located under "Additional Accounts".
 Then it will take you to another page.
@@ -24,9 +24,9 @@ Click on the big blue button that says "Dowload". If you have Windows dwonload t
 # Part 3: Remotly connect and try commands
 After downloading VScode, go ahead and open the application. When you open it, on the top of your screen there should be a tab name "Terminal".
 Click on terminal and then click on "New Terminal".
-In the terminal type: ssh (Your course soecific account that you found on part 1)@ieng6.ucsd.edu. After you type that, press enter.
+In the terminal type: ssh (Your course specific account that you found on part 1)@ieng6.ucsd.edu. After you type that, press enter.
 After that it will ask if u want to continue, type "yes". 
-Then it will ask for a password, the password is the one you created in part 1!After that you should see a screen like this: <img width="761" alt="Screenshot 2023-01-12 at 2 57 14 PM" src="https://user-images.githubusercontent.com/122418243/212520294-7afc9380-0142-4c31-9fc8-3d0ef65fdf75.png">
+Then it will ask for a password, the password is the one you created in part 1! After that you should see a screen like this: <img width="761" alt="Screenshot 2023-01-12 at 2 57 14 PM" src="https://user-images.githubusercontent.com/122418243/212520294-7afc9380-0142-4c31-9fc8-3d0ef65fdf75.png">
 Now your terminal is connected to the computers that are in the CSE building lab!!
-After you are in try out some commands and it should look like this: <img width="850" alt="Screenshot 2023-01-14 at 6 56 11 PM" src="https://user-images.githubusercontent.com/122418243/212520552-a1b92404-41db-4f61-9b45-3976ba304b68.png">
+After you are in, try out some commands such as cd ~, ls -lat, and etc. and it should look like this: <img width="850" alt="Screenshot 2023-01-14 at 6 56 11 PM" src="https://user-images.githubusercontent.com/122418243/212520552-a1b92404-41db-4f61-9b45-3976ba304b68.png">
 Now your done!!
