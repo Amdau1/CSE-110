@@ -21,3 +21,8 @@ To download VScode go to their [website](https://code.visualstudio.com/)
 You should see a page like this:
 <img width="1470" alt="Screenshot 2023-01-12 at 11 04 27 PM" src="https://user-images.githubusercontent.com/122418243/212448850-473b9cee-b85b-4919-82f2-22062c577a59.png">
 Click on the big blue button that says "Dowload". If you have Windows dwonload the windows version, if you have mac download the mac version.
+# Part 3: Remotly connect and try commands
+After downloading VScode, go ahead and open the application. When you open it, on the top of your screen there should be a tab name "Terminal".
+Click on terminal and then click on "New Terminal".
+In the terminal type: ssh (Your course soecific account that you found on part 1)@ieng6.ucsd.edu. After you type that, press enter.
+After that it will ask if u want to continue, type "yes". After that you should see a screen like this: 
