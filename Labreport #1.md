@@ -28,4 +28,5 @@ In the terminal type: ssh (Your course soecific account that you found on part 1
 After that it will ask if u want to continue, type "yes". 
 Then it will ask for a password, the password is the one you created in part 1!After that you should see a screen like this: <img width="761" alt="Screenshot 2023-01-12 at 2 57 14 PM" src="https://user-images.githubusercontent.com/122418243/212520294-7afc9380-0142-4c31-9fc8-3d0ef65fdf75.png">
 Now your terminal is connected to the computers that are in the CSE building lab!!
-After you are in try out some commands and it should look like this: 
+After you are in try out some commands and it should look like this: <img width="850" alt="Screenshot 2023-01-14 at 6 56 11 PM" src="https://user-images.githubusercontent.com/122418243/212520552-a1b92404-41db-4f61-9b45-3976ba304b68.png">
+Now your done!!
