@@ -1,5 +1,6 @@
 # Part 1: Web Server  
 <img width="620" alt="Screenshot 2023-01-29 at 12 16 29 AM" src="https://user-images.githubusercontent.com/122418243/215314081-5c5e8d10-6cb5-45ab-80aa-14ee158d53f3.png">
+  
 Running the server and using "add-message?s":  
 <img width="534" alt="Screenshot 2023-01-28 at 11 39 30 PM" src="https://user-images.githubusercontent.com/122418243/215312672-a2965a40-ade2-4f15-9dd3-60fac35cd643.png">  
 In the above screenshot I am using "add-message?s" to put "Hello World" on the screen. First the code checks the path of the url. If it sees that the directory path is "add-messages" it will execute the else if statement that has the condition "/add-messages" in code. Inside the else if statement the code store whatever is on the right side of equal sign in an array. Then it adds those information to a string variable. Which is why the value of "result" in the code gets updated to the elements in the array. I have added a dummy value in the beginning of the else if statement because it helps the code avoide any errors. Finally the code returns the value of "result" for the user to see.  
