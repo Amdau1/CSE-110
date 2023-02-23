@@ -1,5 +1,6 @@
 
 # Grep command
+
 **Command Option: -i**  
 The command -i is ignoring the case sensitivity of you input. It will look for all the files that match the pattern, ignoring the case of the letters. This is very useful tool for searching for case sensitive file to narrow down your search. For example let's say you are looking for a file in a huge file collection but you forgot if the file you looking for have the first letter as uppercase of lower case. Thats when you can use this command to look for your file.  
 In the example below we can see that without the -i commans it shows nothing but when we use the command it shows the files containing the pattern.  
